@@ -1,12 +1,12 @@
-import React from 'react'
-import Hero from '@/components/hero/Hero'
+import React from "react";
+import Hero from "@/components/hero/Hero";
 
 const page = () => {
   return (
     <main>
-      <Hero/>
+      <Hero />
     </main>
-  )
-}
+  );
+};
 
-export default page
+export default page;
